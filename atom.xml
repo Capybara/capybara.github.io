@@ -4,7 +4,7 @@
   <title><![CDATA[Downtown Distribution]]></title>
   <link href="http://capybara.github.io/atom.xml" rel="self"/>
   <link href="http://capybara.github.io/"/>
-  <updated>2014-01-11T07:20:10-05:00</updated>
+  <updated>2014-01-11T07:50:30-05:00</updated>
   <id>http://capybara.github.io/</id>
   <author>
     <name><![CDATA[JYH]]></name>
@@ -20,7 +20,7 @@
     <id>http://capybara.github.io/blog/2014/01/11/zombie-stuff</id>
     <content type="html"><![CDATA[<h1>Coming Soon</h1>
 
-<h3>Stuff</h3>
+<p>Stuff</p>
 ]]></content>
   </entry>
   
