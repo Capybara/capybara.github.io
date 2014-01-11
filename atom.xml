@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Downtown Distribution]]></title>
-  <link href="http://Capybara.github.io/atom.xml" rel="self"/>
-  <link href="http://Capybara.github.io/"/>
-  <updated>2014-01-11T06:41:59-05:00</updated>
-  <id>http://Capybara.github.io/</id>
+  <link href="http://capybara.github.io/atom.xml" rel="self"/>
+  <link href="http://capybara.github.io/"/>
+  <updated>2014-01-11T07:05:29-05:00</updated>
+  <id>http://capybara.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Zombie Stuff]]></title>
-    <link href="http://Capybara.github.io/blog/2014/01/11/zombie-stuff/"/>
+    <link href="http://capybara.github.io/blog/2014/01/11/zombie-stuff/"/>
     <updated>2014-01-11T04:41:44-05:00</updated>
-    <id>http://Capybara.github.io/blog/2014/01/11/zombie-stuff</id>
+    <id>http://capybara.github.io/blog/2014/01/11/zombie-stuff</id>
     <content type="html"><![CDATA[<h1>post</h1>
 
 <h1>mya stuff</h1>
